@@ -2,7 +2,7 @@
 title: "[Python/数学模型]给大忙人用的速通一：cvxpy和numpy"
 published: 2026-04-27T19:29:23+08:00
 updated: 2026-04-27T19:31:05+08:00
-description: "本文依照我校期中考试进行简单梳理，主要内容包括：cvxpy从设置变量到解决问题输出结果的框架，numpy的简单使用，多种优化问题的限制条件的使用。"
+description: "梳理用 CVXPY 建立并求解优化问题的通用流程，同时记录 NumPy 的基础数据处理方法。"
 tags: ["Python", "数学建模"]
 category: "Python"
 author: "Mem0rin"

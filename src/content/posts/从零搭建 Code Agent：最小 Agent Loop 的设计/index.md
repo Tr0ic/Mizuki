@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：最小 Agent Loop 的设计"
 published: 2026-08-24T20:01:01+08:00
 updated: 2026-08-26T21:36:24+08:00
-description: "本文不接入真实模型服务，笔者只会尝试用 Python 手写一个可以稳定测试的最小 Agent Loop。重点放在控制边界、工具契约、模型适配、失败状态和 JSONL 轨迹上。"
+description: "用 Python 设计一个可测试的最小 Agent Loop，梳理控制边界、工具契约、模型适配、退出状态和 JSONL 运行轨迹。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

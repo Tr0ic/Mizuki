@@ -2,7 +2,7 @@
 title: "[MySQL] 聚合函数、分组查询、连接查询"
 published: 2026-07-24T20:48:11+08:00
 updated: 2026-07-24T20:50:37+08:00
-description: "画师：竹取工坊大佬们好！我是Mem0rin！现在正在准备自学转码。如果我的文章对你有帮助的话，欢迎关注我的主页，一起进步！"
+description: "介绍 MySQL 聚合函数、GROUP BY 分组和 JOIN 连接的基本用法，并区分 WHERE 与 HAVING 的作用。"
 tags: ["MySQL", "数据库"]
 category: "MySQL"
 author: "Mem0rin"

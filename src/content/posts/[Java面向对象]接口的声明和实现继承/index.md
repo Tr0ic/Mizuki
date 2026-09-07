@@ -2,7 +2,7 @@
 title: "[Java面向对象]接口的声明和实现继承"
 published: 2026-03-17T20:21:04+08:00
 updated: 2026-03-17T20:57:16+08:00
-description: "在Java中，接口的定义是把定义类的class改成interface即可。//在接口中，方法默认是public abstract的int a = 1;//在接口中，成员变量默认是public static final的在接口中，成员变量是默认被修饰的，成员方法默认是被修饰的，因此在接口的成员方法和抽象方法一样，是没有主体的。并且接口内是不允许出现静态代码块和构造方法的。//编译出错{}//编译出错。"
+description: "介绍 Java 接口的声明、实现与继承，并通过示例说明接口作为公共规范的使用方式。"
 tags: ["Java"]
 category: "Java"
 author: "Mem0rin"

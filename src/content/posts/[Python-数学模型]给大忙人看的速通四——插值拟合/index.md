@@ -2,7 +2,7 @@
 title: "[Python/数学模型]给大忙人看的速通四——插值拟合"
 published: 2026-04-29T16:37:09+08:00
 updated: 2026-04-29T16:37:12+08:00
-description: "（如 ‘linear’、‘nearest’、‘cubic’ 等）。如果要返回多项式拟合之后的系数，可以使用。函数的参数包括：已知数据点的坐标。，需要预测的数据点的坐标。，我们需要预测一个新的。函数来进行二维插值。"
+description: "整理 SciPy 中一维、二维插值和多项式拟合的基本用法，说明输入数据、方法选择与结果获取方式。"
 tags: ["Python", "数学建模"]
 category: "Python"
 author: "Mem0rin"

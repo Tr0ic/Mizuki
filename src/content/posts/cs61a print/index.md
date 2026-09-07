@@ -2,7 +2,7 @@
 title: "CS61A：Print 初探（附图解）"
 published: 2025-12-04T08:51:18+08:00
 updated: 2025-12-04T09:15:14+08:00
-description: "python中print函数的基础使用"
+description: "从 Python print 的基本输出讲到嵌套调用，结合求值顺序说明表达式、返回值和 None 如何被打印。"
 tags: ["Python", "CS61A"]
 category: "Python"
 author: "Mem0rin"

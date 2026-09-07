@@ -2,7 +2,7 @@
 title: "MIT-Missing-Semester Lcture1整理和习题答案"
 published: 2025-12-02T14:20:41+08:00
 updated: 2025-12-02T14:21:18+08:00
-description: "对于MIT课程内容的整理"
+description: "整理 MIT Missing Semester 第一讲中的 Shell 基础命令、路径导航、重定向与管道，并附课后习题解答。"
 tags: ["Linux", "Shell"]
 category: "Linux"
 author: "Memorin"

@@ -2,7 +2,7 @@
 title: "[自用]Rust速通day5：包、crate和use"
 published: 2026-03-08T22:27:04+08:00
 updated: 2026-03-08T22:27:06+08:00
-description: "同时也可以让路径的重复度减小。另一方面，使用。"
+description: "梳理 Rust 中包、crate 与模块的关系，并说明如何用 use 简化路径和组织作用域。"
 tags: ["Rust"]
 category: "Rust"
 author: "Mem0rin"

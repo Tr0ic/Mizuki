@@ -2,7 +2,7 @@
 title: "[MySQL] 表设计"
 published: 2026-07-20T20:09:41+08:00
 updated: 2026-07-20T20:09:53+08:00
-description: "画师：竹取工坊大佬们好！我是Mem0rin！现在正在准备自学转码。如果我的文章对你有帮助的话，欢迎关注我的主页，一起进步！"
+description: "梳理 MySQL 表设计的基本流程、三种范式和实体关系，并通过建表示例说明如何把业务需求落到数据库结构中。"
 tags: ["MySQL", "数据库"]
 category: "MySQL"
 author: "Mem0rin"

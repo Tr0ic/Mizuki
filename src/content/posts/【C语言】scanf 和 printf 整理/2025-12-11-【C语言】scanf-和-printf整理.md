@@ -2,7 +2,7 @@
 title: "【C语言】scanf 和 printf 整理"
 published: 2025-12-11T10:13:10+08:00
 updated: 2025-12-11T10:15:10+08:00
-description: "解析`printf`函数和`scanf`函数的基本用法，并附上常用的占位符。"
+description: "整理 C 语言 printf 与 scanf 的格式化输入输出、宽度和精度控制、返回值及常用占位符。"
 tags: ["C"]
 category: "C"
 author: "Mem0rin"

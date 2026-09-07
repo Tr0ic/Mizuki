@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：Kernel 类型、模型适配与错误分类"
 published: 2026-08-26T21:35:36+08:00
 updated: 2026-08-26T21:35:36+08:00
-description: "现在开始是正式的项目搭建了，我会尽量省略前面已经讲过的内容，但是会保留必要的部分。"
+description: "为 Code Agent 定义统一的 Kernel 数据类型与模型适配协议，并区分服务商错误、模型输出错误和测试替身耗尽等失败情况。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

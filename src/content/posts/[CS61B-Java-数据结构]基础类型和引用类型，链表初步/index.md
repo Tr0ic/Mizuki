@@ -2,7 +2,7 @@
 title: "[CS61B/Java/数据结构]基础类型和引用类型，链表初步"
 published: 2026-01-29T21:52:47+08:00
 updated: 2026-01-29T21:52:49+08:00
-description: "Java中的基础类型和引用类型，以及变量创建和传值/传址机制"
+description: "梳理 Java 基础类型与引用类型的内存语义、参数传递规则，并以链表为例说明引用的实际用法。"
 tags: ["Java", "数据结构"]
 category: "Java"
 author: "Mem0rin"

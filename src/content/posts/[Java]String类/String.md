@@ -2,7 +2,7 @@
 title: "[Java]字符串String"
 published: 2026-03-20T16:54:30+08:00
 updated: 2026-03-20T18:01:13+08:00
-description: "Java中String类的定义、创建、比较和常用方法。"
+description: "介绍 Java String 的创建与比较、不可变性和常用操作，区分 ==、equals 与 compareTo 的语义。"
 tags: ["Java"]
 category: "Java"
 author: "Mem0rin"

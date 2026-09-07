@@ -2,7 +2,7 @@
 title: "[MySQL]约束"
 published: 2026-07-19T16:00:19+08:00
 updated: 2026-07-19T16:00:21+08:00
-description: "约束可以直接写在字段后，也可以作为表级约束统一定义。-- 在字段后定义约束-- 使用表级约束。"
+description: "整理 MySQL 的非空、唯一、默认值、主键、自增和外键约束，并对比字段级与表级写法。"
 tags: ["MySQL", "数据库"]
 category: "MySQL"
 author: "Mem0rin"

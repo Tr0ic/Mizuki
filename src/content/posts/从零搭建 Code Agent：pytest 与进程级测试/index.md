@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：pytest 与进程级测试"
 published: 2026-08-23T20:37:29+08:00
 updated: 2026-08-23T20:37:29+08:00
-description: "超时、 401、 500、非法 JSON、缺少密钥和日志泄露都需要稳定复现，因此自动测试是必要的。"
+description: "为 Code Agent 建立函数级与进程级测试，覆盖 HTTP 异常、配置缺失、输出日志和子进程边界等场景。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

@@ -2,7 +2,7 @@
 title: "[CS61B/Java/数据结构]面向对象：类的定义和使用"
 published: 2026-01-20T22:09:13+08:00
 updated: 2026-01-20T22:18:57+08:00
-description: "Java面向对象编程中类的核心概念和使用方法。"
+description: "介绍 Java 类的定义与使用，区分静态和实例成员，并说明对象创建、点表示法及 main 方法与客户端程序的关系。"
 tags: ["Java", "数据结构"]
 category: "Java"
 author: "Mem0rin"

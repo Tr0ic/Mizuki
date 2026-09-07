@@ -2,7 +2,7 @@
 title: "从零搭建Code Agent：JSON 文本模型板块"
 published: 2026-08-31T20:51:38+08:00
 updated: 2026-08-31T20:51:38+08:00
-description: "Kernel 保存的是 Message、 ToolCall 和 ToolResult，文本模型接收的是 ProviderMessage，返回的则是一段原始文本。两边的数据不能直接互换，因此需要 Adapter 作为文本信息的中转站进行双向转换。"
+description: "实现 Code Agent 的 JSON 文本模型适配层，说明 Kernel 消息与服务商消息的转换、模型调度和行动解析。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

@@ -2,7 +2,7 @@
 title: "[Java/数据结构]顺序表之ArrayList"
 published: 2026-03-26T20:14:40+08:00
 updated: 2026-03-26T20:14:43+08:00
-description: "Java中ArrayList的实现原理和使用方法。"
+description: "从顺序表的存储方式出发模拟实现 ArrayList，涵盖扩容、增删查改，并分析顺序表的适用场景和局限。"
 tags: ["Java", "数据结构"]
 category: "Java"
 author: "Mem0rin"

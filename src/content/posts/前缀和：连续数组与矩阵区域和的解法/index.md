@@ -2,7 +2,7 @@
 title: "前缀和：连续数组与矩阵区域和的解法"
 published: 2026-08-16T13:27:13+08:00
 updated: 2026-08-16T17:52:46+08:00
-description: "文章目录"
+description: "用前缀状态解决 0 和 1 数量相等的最长子数组，并用二维前缀和计算矩阵区域和。"
 tags: ["算法", "数据结构"]
 category: "算法"
 author: "Mem0rin"

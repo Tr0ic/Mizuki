@@ -2,7 +2,7 @@
 title: "【C语言】（指针篇）指针的定义"
 published: 2025-12-20T18:01:28+08:00
 updated: 2025-12-20T18:01:29+08:00
-description: "指针的定义，取地址和解引用"
+description: "从地址概念出发介绍 C 指针的类型、大小和赋值方式，并说明取地址与解引用操作。"
 tags: ["C"]
 category: "C"
 author: "Mem0rin"

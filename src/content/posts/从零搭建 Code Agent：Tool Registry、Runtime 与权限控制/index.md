@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：Tool Registry、Runtime 与权限控制"
 published: 2026-09-01T20:33:12+08:00
 updated: 2026-09-01T20:33:12+08:00
-description: "Model Adapter 已经把模型响应转换成 ToolCall，接下来还差一步：确认工具并把结果交回模型。"
+description: "设计 Code Agent 的工具注册表、运行时与权限策略，说明工具准备、执行、一次性批准和错误转换如何统一管理。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

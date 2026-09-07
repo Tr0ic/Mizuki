@@ -2,7 +2,7 @@
 title: "前缀和：一维与二维"
 published: 2026-08-08T22:29:06+08:00
 updated: 2026-08-08T22:29:08+08:00
-description: "本质上有动态规划的思想。"
+description: "整理一维与二维前缀和的构造和区间查询公式，并说明零边界如何简化下标和容斥处理。"
 tags: ["算法", "数据结构"]
 category: "算法"
 author: "Mem0rin"

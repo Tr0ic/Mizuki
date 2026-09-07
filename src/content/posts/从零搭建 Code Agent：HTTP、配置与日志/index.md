@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：HTTP、配置与日志"
 published: 2026-08-18T13:12:18+08:00
 updated: 2026-08-18T13:12:18+08:00
-description: "Code Agent 需要调用模型接口、搜索工具和其他远程服务。这些调用大多通过 HTTP 完成，API 地址和密钥来自运行环境，诊断信息还要进入日志。本文希望把这三个环节串联起来，从而解释一次远程调用从哪里开始、错误在哪里出现、哪些信息可以输出。"
+description: "梳理 Code Agent 远程调用中的 HTTP 客户端、超时、错误分类、环境配置和日志边界，并串联完整调用链。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

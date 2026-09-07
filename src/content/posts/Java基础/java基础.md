@@ -2,7 +2,7 @@
 title: "[Java基础]基础形式，条件、循环"
 published: 2026-01-19T17:00:56+08:00
 updated: 2026-01-20T22:17:59+08:00
-description: "面向有编程经验的Java初学者的基础入门"
+description: "面向已有编程经验的读者梳理 Java 的静态类型与面向对象特点，以及条件、函数、数组和循环的基础语法。"
 tags: ["Java"]
 category: "Java"
 author: "Mem0rin"

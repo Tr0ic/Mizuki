@@ -2,7 +2,7 @@
 title: "[MySQL] 查询：连接、子查询、UNION 与视图"
 published: 2026-08-11T15:53:50+08:00
 updated: 2026-08-11T15:54:06+08:00
-description: "结果中可能包含算法、定义者和安全上下文等信息，因此它比仅仅回忆原始SELECT更适合核对当前数据库中的真实定义。需要重复运行练习脚本时，可以先，再重新，避免同名对象已经存在导致脚本中断。"
+description: "系统整理 MySQL 的连接查询、子查询、UNION 和视图，重点说明结果边界、执行语义与常见易错点。"
 tags: ["MySQL", "数据库"]
 category: "MySQL"
 author: "Mem0rin"

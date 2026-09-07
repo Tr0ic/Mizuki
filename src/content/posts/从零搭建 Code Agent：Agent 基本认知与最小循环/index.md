@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：Agent 基本认知与最小循环"
 published: 2026-08-16T18:09:06+08:00
 updated: 2026-08-16T18:09:07+08:00
-description: "目录"
+description: "区分 LLM、固定工作流与 Agent，说明 Agent 如何在模型、工具和环境之间形成“行动—观察—继续或结束”的最小循环。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

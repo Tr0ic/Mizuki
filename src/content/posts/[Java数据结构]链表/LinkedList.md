@@ -2,7 +2,7 @@
 title: "[Java/数据结构]线性表之链表"
 published: 2026-04-02T09:55:20+08:00
 updated: 2026-04-02T09:55:42+08:00
-description: "Java中链表的实现原理和使用方法。"
+description: "实现无头单向链表和双向链表的常用操作，并整理 Java LinkedList 的构造、遍历与常用方法。"
 tags: ["Java", "数据结构"]
 category: "Java"
 author: "Mem0rin"

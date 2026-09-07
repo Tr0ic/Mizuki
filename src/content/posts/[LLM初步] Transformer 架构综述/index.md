@@ -2,7 +2,7 @@
 title: "[LLM初步] Transformer 架构综述"
 published: 2026-05-21T21:46:21+08:00
 updated: 2026-05-21T21:46:21+08:00
-description: "这是我在 agent 方向的初步探索，希望能在后端学习的过程中走完 LLM 等agent 相关的技术栈，分享出来希望能有所帮助。这篇博客主要是整体进行一个简单的表述，具体的自然文本处理，模型训练和 Transformer 架构的结构等会在后面具体展开。Transformer 架构是著名论文提出的框架，最初用于翻译，后来被用于语言模型的自然语言处理上，诞生了一系列具有广泛影响力的模型，例如 GPT、BERT，并逐渐成为现在大模型的基础。"
+description: "概览 Transformer 的整体架构及其主要组成，并用一个简单例子串联文本进入模型后的处理流程。"
 tags: ["LLM", "Transformer", "人工智能"]
 category: "AI"
 author: "Mem0rin"

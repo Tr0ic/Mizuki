@@ -2,7 +2,7 @@
 title: "[LLM初步]Transformer 模型分类（从架构出发）"
 published: 2026-05-22T18:41:26+08:00
 updated: 2026-05-22T18:41:39+08:00
-description: "Transformer模型的分类及其架构特点。"
+description: "从架构角度区分编码器、解码器和编码器—解码器模型，并概括 BERT、GPT 与序列到序列模型的适用任务。"
 tags: ["LLM", "Transformer", "人工智能"]
 category: "AI"
 author: "Mem0rin"

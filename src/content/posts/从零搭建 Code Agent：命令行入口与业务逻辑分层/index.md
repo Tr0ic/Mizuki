@@ -2,7 +2,7 @@
 title: "从零搭建 Code Agent：命令行入口与业务逻辑分层"
 published: 2026-08-17T15:19:51+08:00
 updated: 2026-08-17T15:19:51+08:00
-description: "Code Agent 最终需要一个稳定入口：人可以从终端提交任务，其他程序也可以读取输出和退出状态。命令行层负责接收参数与呈现结果，业务层只处理数据。两层分开后，同一套业务逻辑才能被 CLI、测试和后续 Agent 循环共同复用。"
+description: "用一个最小 Python CLI 说明 Code Agent 的命令行入口与业务逻辑如何分层，并覆盖参数解析、错误边界、输出格式和测试。"
 tags: ["Agent", "Python", "人工智能"]
 category: "AI Agent"
 author: "Mem0rin"

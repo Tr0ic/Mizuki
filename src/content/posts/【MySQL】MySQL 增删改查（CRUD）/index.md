@@ -2,7 +2,7 @@
 title: "【MySQL】MySQL 增删改查（CRUD）"
 published: 2026-07-13T22:23:42+08:00
 updated: 2026-07-13T22:23:44+08:00
-description: "- 1.新增insert into table_name (列名, 列名...) values (值, 值);-- 2.查询-- 全部查询-- 指定列查询select column_name/expr as 别名 -- 使用别名where column_name/expr 比较|逻辑运算符 --排序查询order by colunm/expr/别名 asc/desc --条件查询-- 分页查询（从 s 开始往后 n 个）--去重查询。"
+description: "整理 MySQL 中 INSERT、SELECT、UPDATE 和 DELETE 的基本语法，涵盖条件、排序、去重与分页查询。"
 tags: ["MySQL", "数据库"]
 category: "MySQL"
 author: "Mem0rin"

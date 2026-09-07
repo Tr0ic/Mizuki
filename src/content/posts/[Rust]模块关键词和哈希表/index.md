@@ -2,7 +2,7 @@
 title: "[Rust]模块关键词和哈希表"
 published: 2026-03-09T20:55:04+08:00
 updated: 2026-03-09T20:55:43+08:00
-description: "画师：竹取工坊大佬们好！我是Mem0rin！现在正在准备自学转码。如果我的文章对你有帮助的话，欢迎关注我的主页，欢迎互三，一起进步！"
+description: "整理 Rust 模块中的 pub、as、外部包与嵌套路径，并介绍 HashMap 的创建、访问、所有权和更新操作。"
 tags: ["Rust"]
 category: "Rust"
 author: "Mem0rin"

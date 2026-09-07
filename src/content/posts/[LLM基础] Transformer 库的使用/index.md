@@ -2,7 +2,7 @@
 title: "[LLM基础] Transformer 库的使用"
 published: 2026-05-27T15:01:19+08:00
 updated: 2026-05-27T15:01:21+08:00
-description: "本文介绍了Transformer模型处理文本的三个关键步骤：预处理（tokenization）、模型计算和后处理。"
+description: "以 Hugging Face Transformers 为例，梳理文本从分词、张量化和模型计算到后处理的完整流程。"
 tags: ["LLM", "Transformer", "人工智能"]
 category: "AI"
 author: "Mem0rin"

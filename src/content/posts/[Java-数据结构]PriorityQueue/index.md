@@ -2,7 +2,7 @@
 title: "[Java/数据结构]PriorityQueue"
 published: 2026-04-16T19:14:11+08:00
 updated: 2026-04-16T19:14:38+08:00
-description: "画师：竹取工坊大佬们好！我是Mem0rin！现在正在准备自学转码。如果我的文章对你有帮助的话，欢迎关注我的主页，欢迎互三，一起进步！"
+description: "从堆的性质出发实现 Java 优先级队列，涵盖上下调整、建堆、增删元素、堆排序和 Top K 问题。"
 tags: ["Java", "数据结构"]
 category: "Java"
 author: "Mem0rin"
